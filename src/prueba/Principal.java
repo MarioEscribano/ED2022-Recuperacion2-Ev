@@ -6,6 +6,7 @@ public class Principal {
 		System.out.println("Este es un proyecto de git para github"
 				+ "parte 2");
 		System.out.println("Buenas tardes.");
+		System.out.println("Esta es una modificación desde github.");
 	}
 	
 }
